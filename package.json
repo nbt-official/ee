@@ -1,0 +1,17 @@
+{
+  "name": "livecricket-api",
+  "version": "1.0.0",
+  "description": "API to fetch HTML from livecricketsl.xyz",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["express", "axios", "livecricket"],
+  "author": "Shehan Jay",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
+  }
+}
